@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MultiThreadedSearch": {
+      "commandName": "Project",
+      "commandLineArgs": "/Users/My/source/repos/MultiThreadedSearch/MultiThreadedSearch/Alice.txt Title  2 0"
+    }
+  }
+}

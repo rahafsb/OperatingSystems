@@ -1,0 +1,14 @@
+C:\Users\My\source\repos\MultiThreadedSearch\MultiThreadedSearch\obj\Debug\netcoreapp3.1\MultiThreadedSearch.csproj.AssemblyReference.cache
+C:\Users\My\source\repos\MultiThreadedSearch\MultiThreadedSearch\obj\Debug\netcoreapp3.1\MultiThreadedSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My\source\repos\MultiThreadedSearch\MultiThreadedSearch\obj\Debug\netcoreapp3.1\MultiThreadedSearch.AssemblyInfoInputs.cache
+C:\Users\My\source\repos\MultiThreadedSearch\MultiThreadedSearch\obj\Debug\netcoreapp3.1\MultiThreadedSearch.AssemblyInfo.cs
+C:\Users\My\source\repos\MultiThreadedSearch\MultiThreadedSearch\obj\Debug\netcoreapp3.1\MultiThreadedSearch.csproj.CoreCompileInputs.cache
+C:\Users\My\source\repos\MultiThreadedSearch\MultiThreadedSearch\bin\Debug\netcoreapp3.1\MultiThreadedSearch.exe
+C:\Users\My\source\repos\MultiThreadedSearch\MultiThreadedSearch\bin\Debug\netcoreapp3.1\MultiThreadedSearch.deps.json
+C:\Users\My\source\repos\MultiThreadedSearch\MultiThreadedSearch\bin\Debug\netcoreapp3.1\MultiThreadedSearch.runtimeconfig.json
+C:\Users\My\source\repos\MultiThreadedSearch\MultiThreadedSearch\bin\Debug\netcoreapp3.1\MultiThreadedSearch.runtimeconfig.dev.json
+C:\Users\My\source\repos\MultiThreadedSearch\MultiThreadedSearch\bin\Debug\netcoreapp3.1\MultiThreadedSearch.dll
+C:\Users\My\source\repos\MultiThreadedSearch\MultiThreadedSearch\bin\Debug\netcoreapp3.1\MultiThreadedSearch.pdb
+C:\Users\My\source\repos\MultiThreadedSearch\MultiThreadedSearch\obj\Debug\netcoreapp3.1\MultiThreadedSearch.dll
+C:\Users\My\source\repos\MultiThreadedSearch\MultiThreadedSearch\obj\Debug\netcoreapp3.1\MultiThreadedSearch.pdb
+C:\Users\My\source\repos\MultiThreadedSearch\MultiThreadedSearch\obj\Debug\netcoreapp3.1\MultiThreadedSearch.genruntimeconfig.cache

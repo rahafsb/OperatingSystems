@@ -1,0 +1,12 @@
+Typeso
+Fire,Water,Electric,Grasso
+Fire effective-against-me:Water,Electrico
+Fire effective-against-other:Grasso
+Electric effective-against-other:Fireo
+Pokemonso
+Pikachu,MousePokemon,0.4,6.0,55,Electrico
+Charmander,LizardPokemon,0.6,8.5,52,Fireo
+Ponyta,FireHorsePokemon,1.0,30.0,85,Fireo
+Squirtle,TinyTurtlePokemon,0.5,9.0,48,Watero
+Psyduck,DuckPokemon,0.8,19.6,52,Watero
+Growlithe,PuppyPokemon,0.7,19,70,Fireo

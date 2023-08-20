@@ -1,0 +1,16 @@
+C:\Users\My\source\repos\DDoSAttack\DDoSAttack\bin\Debug\netcoreapp3.1\DDoSAttack.exe
+C:\Users\My\source\repos\DDoSAttack\DDoSAttack\bin\Debug\netcoreapp3.1\DDoSAttack.deps.json
+C:\Users\My\source\repos\DDoSAttack\DDoSAttack\bin\Debug\netcoreapp3.1\DDoSAttack.runtimeconfig.json
+C:\Users\My\source\repos\DDoSAttack\DDoSAttack\bin\Debug\netcoreapp3.1\DDoSAttack.runtimeconfig.dev.json
+C:\Users\My\source\repos\DDoSAttack\DDoSAttack\bin\Debug\netcoreapp3.1\DDoSAttack.dll
+C:\Users\My\source\repos\DDoSAttack\DDoSAttack\bin\Debug\netcoreapp3.1\DDoSAttack.pdb
+C:\Users\My\source\repos\DDoSAttack\DDoSAttack\obj\Debug\netcoreapp3.1\DDoSAttack.csproj.AssemblyReference.cache
+C:\Users\My\source\repos\DDoSAttack\DDoSAttack\obj\Debug\netcoreapp3.1\DDoSAttack.Form1.resources
+C:\Users\My\source\repos\DDoSAttack\DDoSAttack\obj\Debug\netcoreapp3.1\DDoSAttack.csproj.GenerateResource.cache
+C:\Users\My\source\repos\DDoSAttack\DDoSAttack\obj\Debug\netcoreapp3.1\DDoSAttack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My\source\repos\DDoSAttack\DDoSAttack\obj\Debug\netcoreapp3.1\DDoSAttack.AssemblyInfoInputs.cache
+C:\Users\My\source\repos\DDoSAttack\DDoSAttack\obj\Debug\netcoreapp3.1\DDoSAttack.AssemblyInfo.cs
+C:\Users\My\source\repos\DDoSAttack\DDoSAttack\obj\Debug\netcoreapp3.1\DDoSAttack.csproj.CoreCompileInputs.cache
+C:\Users\My\source\repos\DDoSAttack\DDoSAttack\obj\Debug\netcoreapp3.1\DDoSAttack.dll
+C:\Users\My\source\repos\DDoSAttack\DDoSAttack\obj\Debug\netcoreapp3.1\DDoSAttack.pdb
+C:\Users\My\source\repos\DDoSAttack\DDoSAttack\obj\Debug\netcoreapp3.1\DDoSAttack.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PrimeCalc": {
+      "commandName": "Project",
+      "commandLineArgs": "10 50 4"
+    }
+  }
+}
