@@ -1,0 +1,16 @@
+C:\Users\My\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.exe
+C:\Users\My\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.deps.json
+C:\Users\My\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.runtimeconfig.json
+C:\Users\My\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.runtimeconfig.dev.json
+C:\Users\My\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.dll
+C:\Users\My\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\netcoreapp3.1\SpreadsheetApp.pdb
+C:\Users\My\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.csproj.AssemblyReference.cache
+C:\Users\My\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.Form1.resources
+C:\Users\My\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.csproj.GenerateResource.cache
+C:\Users\My\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.AssemblyInfoInputs.cache
+C:\Users\My\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.AssemblyInfo.cs
+C:\Users\My\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.csproj.CoreCompileInputs.cache
+C:\Users\My\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.dll
+C:\Users\My\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.pdb
+C:\Users\My\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\netcoreapp3.1\SpreadsheetApp.genruntimeconfig.cache

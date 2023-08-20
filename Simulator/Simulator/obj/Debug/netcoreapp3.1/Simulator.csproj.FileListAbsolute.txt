@@ -1,0 +1,14 @@
+C:\Users\My\source\repos\Simulator\Simulator\obj\Debug\netcoreapp3.1\Simulator.csproj.AssemblyReference.cache
+C:\Users\My\source\repos\Simulator\Simulator\obj\Debug\netcoreapp3.1\Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My\source\repos\Simulator\Simulator\obj\Debug\netcoreapp3.1\Simulator.AssemblyInfoInputs.cache
+C:\Users\My\source\repos\Simulator\Simulator\obj\Debug\netcoreapp3.1\Simulator.AssemblyInfo.cs
+C:\Users\My\source\repos\Simulator\Simulator\obj\Debug\netcoreapp3.1\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\My\source\repos\Simulator\Simulator\bin\Debug\netcoreapp3.1\Simulator.exe
+C:\Users\My\source\repos\Simulator\Simulator\bin\Debug\netcoreapp3.1\Simulator.deps.json
+C:\Users\My\source\repos\Simulator\Simulator\bin\Debug\netcoreapp3.1\Simulator.runtimeconfig.json
+C:\Users\My\source\repos\Simulator\Simulator\bin\Debug\netcoreapp3.1\Simulator.runtimeconfig.dev.json
+C:\Users\My\source\repos\Simulator\Simulator\bin\Debug\netcoreapp3.1\Simulator.dll
+C:\Users\My\source\repos\Simulator\Simulator\bin\Debug\netcoreapp3.1\Simulator.pdb
+C:\Users\My\source\repos\Simulator\Simulator\obj\Debug\netcoreapp3.1\Simulator.dll
+C:\Users\My\source\repos\Simulator\Simulator\obj\Debug\netcoreapp3.1\Simulator.pdb
+C:\Users\My\source\repos\Simulator\Simulator\obj\Debug\netcoreapp3.1\Simulator.genruntimeconfig.cache
