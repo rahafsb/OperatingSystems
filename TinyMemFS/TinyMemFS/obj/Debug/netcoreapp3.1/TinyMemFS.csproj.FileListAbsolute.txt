@@ -1,0 +1,16 @@
+C:\Users\My\source\repos\TinyMemFS\TinyMemFS\bin\Debug\netcoreapp3.1\TinyMemFS.exe
+C:\Users\My\source\repos\TinyMemFS\TinyMemFS\bin\Debug\netcoreapp3.1\TinyMemFS.deps.json
+C:\Users\My\source\repos\TinyMemFS\TinyMemFS\bin\Debug\netcoreapp3.1\TinyMemFS.runtimeconfig.json
+C:\Users\My\source\repos\TinyMemFS\TinyMemFS\bin\Debug\netcoreapp3.1\TinyMemFS.runtimeconfig.dev.json
+C:\Users\My\source\repos\TinyMemFS\TinyMemFS\bin\Debug\netcoreapp3.1\TinyMemFS.dll
+C:\Users\My\source\repos\TinyMemFS\TinyMemFS\bin\Debug\netcoreapp3.1\TinyMemFS.pdb
+C:\Users\My\source\repos\TinyMemFS\TinyMemFS\obj\Debug\netcoreapp3.1\TinyMemFS.csproj.AssemblyReference.cache
+C:\Users\My\source\repos\TinyMemFS\TinyMemFS\obj\Debug\netcoreapp3.1\TinyMemFS.Form1.resources
+C:\Users\My\source\repos\TinyMemFS\TinyMemFS\obj\Debug\netcoreapp3.1\TinyMemFS.csproj.GenerateResource.cache
+C:\Users\My\source\repos\TinyMemFS\TinyMemFS\obj\Debug\netcoreapp3.1\TinyMemFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My\source\repos\TinyMemFS\TinyMemFS\obj\Debug\netcoreapp3.1\TinyMemFS.AssemblyInfoInputs.cache
+C:\Users\My\source\repos\TinyMemFS\TinyMemFS\obj\Debug\netcoreapp3.1\TinyMemFS.AssemblyInfo.cs
+C:\Users\My\source\repos\TinyMemFS\TinyMemFS\obj\Debug\netcoreapp3.1\TinyMemFS.csproj.CoreCompileInputs.cache
+C:\Users\My\source\repos\TinyMemFS\TinyMemFS\obj\Debug\netcoreapp3.1\TinyMemFS.dll
+C:\Users\My\source\repos\TinyMemFS\TinyMemFS\obj\Debug\netcoreapp3.1\TinyMemFS.pdb
+C:\Users\My\source\repos\TinyMemFS\TinyMemFS\obj\Debug\netcoreapp3.1\TinyMemFS.genruntimeconfig.cache

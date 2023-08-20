@@ -1,0 +1,34 @@
+C:\Users\johnz\OneDrive\Desktop\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\bin\Debug\netcoreapp3.1\ThrashingGenerator.exe
+C:\Users\johnz\OneDrive\Desktop\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\bin\Debug\netcoreapp3.1\ThrashingGenerator.deps.json
+C:\Users\johnz\OneDrive\Desktop\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\bin\Debug\netcoreapp3.1\ThrashingGenerator.runtimeconfig.json
+C:\Users\johnz\OneDrive\Desktop\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\bin\Debug\netcoreapp3.1\ThrashingGenerator.runtimeconfig.dev.json
+C:\Users\johnz\OneDrive\Desktop\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\bin\Debug\netcoreapp3.1\ThrashingGenerator.dll
+C:\Users\johnz\OneDrive\Desktop\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\bin\Debug\netcoreapp3.1\ThrashingGenerator.pdb
+C:\Users\johnz\OneDrive\Desktop\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\obj\Debug\netcoreapp3.1\ThrashingGenerator.csproj.AssemblyReference.cache
+C:\Users\johnz\OneDrive\Desktop\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\obj\Debug\netcoreapp3.1\ThrashingGenerator.Form1.resources
+C:\Users\johnz\OneDrive\Desktop\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\obj\Debug\netcoreapp3.1\ThrashingGenerator.csproj.GenerateResource.cache
+C:\Users\johnz\OneDrive\Desktop\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\obj\Debug\netcoreapp3.1\ThrashingGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnz\OneDrive\Desktop\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\obj\Debug\netcoreapp3.1\ThrashingGenerator.AssemblyInfoInputs.cache
+C:\Users\johnz\OneDrive\Desktop\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\obj\Debug\netcoreapp3.1\ThrashingGenerator.AssemblyInfo.cs
+C:\Users\johnz\OneDrive\Desktop\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\obj\Debug\netcoreapp3.1\ThrashingGenerator.csproj.CoreCompileInputs.cache
+C:\Users\johnz\OneDrive\Desktop\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\obj\Debug\netcoreapp3.1\ThrashingGenerator.dll
+C:\Users\johnz\OneDrive\Desktop\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\obj\Debug\netcoreapp3.1\ThrashingGenerator.pdb
+C:\Users\johnz\OneDrive\Desktop\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\obj\Debug\netcoreapp3.1\ThrashingGenerator.genruntimeconfig.cache
+C:\Users\johnz\OneDrive\Desktop\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\obj\Debug\netcoreapp3.1\ThrashingGenerator.Properties.Resources.resources
+C:\Users\My\Downloads\Thrashing Generator\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\bin\Debug\netcoreapp3.1\ThrashingGenerator.exe
+C:\Users\My\Downloads\Thrashing Generator\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\bin\Debug\netcoreapp3.1\ThrashingGenerator.deps.json
+C:\Users\My\Downloads\Thrashing Generator\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\bin\Debug\netcoreapp3.1\ThrashingGenerator.runtimeconfig.json
+C:\Users\My\Downloads\Thrashing Generator\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\bin\Debug\netcoreapp3.1\ThrashingGenerator.runtimeconfig.dev.json
+C:\Users\My\Downloads\Thrashing Generator\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\bin\Debug\netcoreapp3.1\ThrashingGenerator.dll
+C:\Users\My\Downloads\Thrashing Generator\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\bin\Debug\netcoreapp3.1\ThrashingGenerator.pdb
+C:\Users\My\Downloads\Thrashing Generator\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\obj\Debug\netcoreapp3.1\ThrashingGenerator.csproj.AssemblyReference.cache
+C:\Users\My\Downloads\Thrashing Generator\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\obj\Debug\netcoreapp3.1\ThrashingGenerator.Form1.resources
+C:\Users\My\Downloads\Thrashing Generator\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\obj\Debug\netcoreapp3.1\ThrashingGenerator.Properties.Resources.resources
+C:\Users\My\Downloads\Thrashing Generator\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\obj\Debug\netcoreapp3.1\ThrashingGenerator.csproj.GenerateResource.cache
+C:\Users\My\Downloads\Thrashing Generator\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\obj\Debug\netcoreapp3.1\ThrashingGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My\Downloads\Thrashing Generator\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\obj\Debug\netcoreapp3.1\ThrashingGenerator.AssemblyInfoInputs.cache
+C:\Users\My\Downloads\Thrashing Generator\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\obj\Debug\netcoreapp3.1\ThrashingGenerator.AssemblyInfo.cs
+C:\Users\My\Downloads\Thrashing Generator\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\obj\Debug\netcoreapp3.1\ThrashingGenerator.csproj.CoreCompileInputs.cache
+C:\Users\My\Downloads\Thrashing Generator\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\obj\Debug\netcoreapp3.1\ThrashingGenerator.dll
+C:\Users\My\Downloads\Thrashing Generator\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\obj\Debug\netcoreapp3.1\ThrashingGenerator.pdb
+C:\Users\My\Downloads\Thrashing Generator\Thrashing Generator\ThrashingGenerator\ThrashingGenerator\obj\Debug\netcoreapp3.1\ThrashingGenerator.genruntimeconfig.cache
